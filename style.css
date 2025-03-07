@@ -89,6 +89,10 @@ body{
     background-color: lightgrey;
 }
 
+.btn:hover{
+    background-color: rgb(226, 226, 113);
+}
+
 .screen-cursor{
     animation: blink-animation 1s infinite;
 }
